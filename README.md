@@ -1,6 +1,10 @@
 # simple_flutter_app
 
-A new Flutter project.
+Simple Flutter App with Multi Screen Getting Start
+
+Main.dart
+FirstScreen.dart
+SecondScreen.dart
 
 ## Getting Started
 
